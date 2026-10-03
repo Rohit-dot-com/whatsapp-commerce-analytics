@@ -1,0 +1,22 @@
+# Generated data — regenerate locally with `python generate_data.py`
+data/
+
+# Secrets — never commit real credentials
+app/.streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
