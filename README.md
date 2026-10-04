@@ -11,7 +11,7 @@ operational and conversational analytics roles.
 > but no real merchants, customers, or orders are represented. Numbers are
 > illustrative, not real business results.
 
-**[Live dashboard →](#)** *(add your deployed Streamlit link here)*
+**[Live dashboard →](#)** *(https://whatsapp-commerce-analytics-lplzzrsweqrxxzfw5ssxy5.streamlit.app/)*
 
 ---
 
